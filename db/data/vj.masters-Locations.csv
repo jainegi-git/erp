@@ -1,0 +1,6 @@
+locationId,ID,name,address1,villageCity,createdAt,createdBy,modifiedAt,modifiedBy
+L001,1,Central Warehouse,123 Main St,Metro City,2024-01-10T09:00:00Z,admin,2024-05-01T10:00:00Z,admin
+L002,2,North Depot,456 North Ave,Northville,2024-02-15T11:30:00Z,admin,2024-05-02T12:00:00Z,admin
+L003,3,South Storage,789 South Rd,Southtown,2024-03-20T14:45:00Z,admin,2024-05-03T15:00:00Z,admin
+L004,4,East Hub,321 East Blvd,Easthaven,2024-04-05T08:20:00Z,admin,2024-05-04T09:00:00Z,admin
+L005,5,West Point,654 West Dr,Westfield,2024-05-10T16:10:00Z,admin,2024-05-05T17:00:00Z,admin

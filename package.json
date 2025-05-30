@@ -1,8 +1,8 @@
 {
   "name": "vj",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
+  "description": "Simple ERP project",
+  "repository": "com.vj",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {

@@ -1,0 +1,11 @@
+partnerId,partnerType,firstName,LastName,gender,salutation,locationId,address1,address2,villageCity,tehsil,district,state,GST,PAN,mobile,mobile2,remarks,createdAt,createdBy,modifiedAt,modifiedBy
+P001,Customer,Amit,Sharma,Mr.,Male,L001,12 Green Park,,Metro City,Central,Metro,Delhi,07ABCDE1234F1Z5,ABCDE1234F,9876543210,9123456780,Preferred customer,2024-01-10T09:00:00Z,admin,2024-05-01T10:00:00Z,admin
+P002,Supplier,Sunita,Verma,Mrs.,Female,L002,45 Lake View,Apt 2B,Northville,North,Northville,Uttar Pradesh,09FGHIJ5678K2Z6,FGHIJ5678K,9988776655,9112233445,On-time supplier,2024-02-15T11:30:00Z,admin,2024-05-02T12:00:00Z,admin
+P003,Customer,Rahul,Gupta,Mr.,Male,L003,78 Hill Road,,Southtown,South,Southtown,Haryana,06KLMNO9012L3Z7,KLMNO9012L,9001122334,9002233445,Frequent buyer,2024-03-20T14:45:00Z,admin,2024-05-03T15:00:00Z,admin
+P004,Supplier,Neha,Patel,Ms.,Female,L004,23 River Lane,Suite 5,Easthaven,East,Easthaven,Gujarat,24PQRST3456M4Z8,PQRST3456M,9871234567,9872345678,New supplier,2024-04-05T08:20:00Z,admin,2024-05-04T09:00:00Z,admin
+P005,Customer,Deepak,Mehra,Mr.,Male,L005,56 Ocean Drive,,Westfield,West,Westfield,Maharashtra,27UVWXY7890N5Z9,UVWXY7890N,9123456789,9134567890,VIP customer,2024-05-10T16:10:00Z,admin,2024-05-05T17:00:00Z,admin
+P006,Supplier,Anjali,Desai,Mrs.,Female,L001,89 Forest Ave,Block C,Metro City,Central,Metro,Delhi,07ABCDE1234F1Z5,ABCDE1234F,9876501234,9123409876,Trusted partner,2024-01-12T10:00:00Z,admin,2024-05-06T11:00:00Z,admin
+P007,Customer,Manoj,Kumar,Mr.,Male,L002,34 Sun Street,,Northville,North,Northville,Uttar Pradesh,09FGHIJ5678K2Z6,FGHIJ5678K,9988700000,9112200000,Regular customer,2024-02-18T12:00:00Z,admin,2024-05-07T13:00:00Z,admin
+P008,Supplier,Rekha,Joshi,Ms.,Female,L003,67 Moon Road,Flat 7,Southtown,South,Southtown,Haryana,06KLMNO9012L3Z7,KLMNO9012L,9001100000,9002200000,Prompt delivery,2024-03-22T15:00:00Z,admin,2024-05-08T16:00:00Z,admin
+P009,Customer,Suresh,Chawla,Mr.,Male,L004,21 Star Lane,,Easthaven,East,Easthaven,Gujarat,24PQRST3456M4Z8,PQRST3456M,9871200000,9872300000,Occasional buyer,2024-04-07T09:00:00Z,admin,2024-05-09T10:00:00Z,admin
+P010,Supplier,Meena,Kapoor,Mrs.,Female,L005,90 Cloud Ave,Suite 10,Westfield,West,Westfield,Maharashtra,27UVWXY7890N5Z9,UVWXY7890N,9123400000,9134500000,Preferred vendor,2024-05-12T17:00:00Z,admin,2024-05-10T18:00:00Z,admin

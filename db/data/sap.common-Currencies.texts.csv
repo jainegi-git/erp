@@ -1,0 +1,21 @@
+code,locale,name,descr
+INR,en,Indian Rupee,Official currency of India
+INR,hi,भारतीय रुपया,भारत की आधिकारिक मुद्रा
+USD,en,US Dollar,Official currency of the United States
+USD,es,Dólar estadounidense,Moneda oficial de Estados Unidos
+EUR,en,Euro,Official currency of the Eurozone
+EUR,de,Euro,Offizielle Währung der Eurozone
+GBP,en,British Pound,Official currency of the United Kingdom
+GBP,fr,Livre sterling,Monnaie officielle du Royaume-Uni
+JPY,en,Japanese Yen,Official currency of Japan
+JPY,ja,円,日本の法定通貨
+AUD,en,Australian Dollar,Official currency of Australia
+AUD,fr,Dollar australien,Monnaie officielle de l'Australie
+CAD,en,Canadian Dollar,Official currency of Canada
+CAD,fr,Dollar canadien,Monnaie officielle du Canada
+CHF,en,Swiss Franc,Official currency of Switzerland
+CHF,de,Schweizer Franken,Offizielle Währung der Schweiz
+SGD,en,Singapore Dollar,Official currency of Singapore
+SGD,zh,新加坡元,新加坡的官方货币
+CNY,en,Chinese Yuan,Official currency of China
+CNY,zh,人民币,中国的官方货币
